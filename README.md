@@ -3,7 +3,7 @@
 - Ali Osama, 20140247
 - Taha Magdy, 20140222
 - We have uploaded the code only, without the dataset becuase it is so large to upload.
-- Datasets used: [COCO](http://cocodataset.org/) & [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html). They are available online.
+- Datasets used: [COCO](http://cocodataset.org/) & [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 
 ## Some Details
